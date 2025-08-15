@@ -1,4 +1,4 @@
-# Green and Gold
+![Green and Gold](Assets/Textures/logo.png)
 ## Experimental Minecrafty thing
 
 Made in Unity 3D
