@@ -1,4 +1,4 @@
-![Green and Gold](Assets/Textures/logo.png)
+![Green and Gold](Screenshots/github_banner.png)
 ## Experimental Minecrafty thing
 
 Made in Unity 3D
