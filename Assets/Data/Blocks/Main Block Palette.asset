@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 872ef0c7eff680f46adefdde4b1acc84, type: 3}
+  m_Name: Main Block Palette
+  m_EditorClassIdentifier: 
+  air: {fileID: 11400000, guid: 3ddc9280cffa0f944bbb84b9cdfbf68b, type: 2}
+  grass: {fileID: 11400000, guid: 7f1145389648764429a871eab046faab, type: 2}
+  dirt: {fileID: 11400000, guid: bf702abed4f71ab4c8c9efae5c3e7dd1, type: 2}
+  stone: {fileID: 11400000, guid: 27d9ddb7267829240beaa5b9e1672735, type: 2}
+  leaves: {fileID: 11400000, guid: 27f4259880546974a8af3cc431358394, type: 2}
+  log: {fileID: 11400000, guid: e4578a3e15102ce43a6b2fce8e4bf59a, type: 2}
+  ash: {fileID: 11400000, guid: ec778ab63bc6a3c41b1b4a13334c4bc9, type: 2}
+  sand: {fileID: 11400000, guid: 246a555ce49f01c4e8b3c0aaf36789a5, type: 2}

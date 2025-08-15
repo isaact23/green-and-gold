@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e70def75bdfebc4788533288d809a9f, type: 3}
+  m_Name: Main World Generator Settings
+  m_EditorClassIdentifier: 
+  biomeSettings: {fileID: 11400000, guid: ad316e81a7fb74e478aa3fd63a815b3a, type: 2}
+  worldWidth: 100
+  seed: 567
